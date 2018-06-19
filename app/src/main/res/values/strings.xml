@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SantanderDemo</string>
+    <string name="login_button_title"></string>
+    <string name="login_edit_text_phone_number_hint"></string>
+    <string name="user_name">Usuario</string>
+    <string name="login_edit_text_password_hint">Password</string>
+    <string name="password">Password</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_main">Santander Demo</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Iniciar Sessión</string>
+
+    <string name="title_edit_text_name">Ingrese Nombre(s)*:</string>
+    <string name="title_edit_text_first_name">Ingrese Primer Nombre*:</string>
+    <string name="title_edit_text_second_name">Ingrese Segundo Nombre</string>
+    <string name="title_edit_text_last_name">Ingrese Apellido Paterno*:</string>
+    <string name="title_edit_text_last_name_m">Ingrese Apellido Materno:</string>
+    <string name="title_edit_text_phone_number">Ingrese Teléfono*:</string>
+    <string name="title_button_next">Guardar</string>
+    <string name="title_button_credit_acept">Aceptar Crédito</string>
+    <string name="title_button_acept">Aceptar</string>
+
+</resources>

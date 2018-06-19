@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="colorLine">#607d8b</color>
+    <color name="colorBackgroundText">#8000</color>
+    <color name="expcolor">#FF0000</color>
+    <color name="titlecolor">#8862ab</color>
+    <color name="cellbackcolor">#eeeeee</color>
+    <color name="desccolor">#6060dd</color>
+    <color name="cellbackcolor_header">#aaaaaa</color>
+    <color name="titlecolor_header">#ffffff</color>
+
+    <color name="lbl_product_name">#333333</color>
+    <color name="lbl_product_description">#444444</color>
+
+    <color name="colorTextTitle">#636363</color>
+    <color name="button_pressed_background">#66B2FF</color>
+    <color name="button_enabled_background">#3399FF</color>
+    <color name="button_disabled_background">#C0C0C0</color>
+
+</resources>

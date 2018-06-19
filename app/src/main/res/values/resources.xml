@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="genero">
+        <item>Masculino</item>
+        <item>Fenenino</item>
+    </string-array>
+
+    <string-array name="pais">
+        <item>México</item>
+        <item>Francia</item>
+        <item>Alemania</item>
+        <item>Argentina</item>
+        <item>Uruguay</item>
+        <item>Brasil</item>
+        <item>Estados Unidos</item>
+        <item>Canada</item>
+        <item>Japon</item>
+        <item>España</item>
+        <item>Inglaterra</item>
+        <item>Rusia</item>
+        <item>Peru</item>
+    </string-array>
+    <string-array name="estado">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Chihuahua</item>
+        <item>Chiapas</item>
+        <item>Coahuila</item>
+        <item>Colima</item>
+        <item>Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>Estado de México</item>
+        <item>Ciudad de México</item>
+        <item>Michoacán</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Querétaro</item>
+    </string-array>
+
+
+</resources>
